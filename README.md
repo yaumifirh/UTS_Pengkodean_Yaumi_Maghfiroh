@@ -1,3 +1,16 @@
+# Identitas Mahasiswa
+Nama         : Yaumi Maghfiroh
+NIM          : 12030124130168
+Mata Kuliah  : Pengkodean dan Pemrograman - E
+
+## Web Demo dan Repository
+
+**Web Demo:**
+[(https://yaumifirh.github.io/UTS_Pengkodean_Yaumi_Maghfiroh/)]
+
+**GitHub Repository:**
+[https://github.com/yaumifirh/UTS_Pengkodean_Yaumi_Maghfiroh/]
+
 # Voucher Entri Transaksi Kas Keluar
 
 **Aplikasi Web Sistem Informasi Akuntansi — UTS**
@@ -242,15 +255,7 @@ Informasi rahasia seperti `service_role` key dan secret key tidak boleh ditempat
 
 Akses data harus disesuaikan dengan autentikasi, hak akses, dan kebijakan Row Level Security (RLS). Status koneksi berhasil saja tidak menjamin semua operasi baca dan tulis telah diizinkan.
 
-## 11. Web Demo dan Repository
-
-**Web Demo:**
-[(https://yaumifirh.github.io/UTS_Pengkodean_Yaumi_Maghfiroh/)]
-
-**GitHub Repository:**
-[https://github.com/yaumifirh/UTS_Pengkodean_Yaumi_Maghfiroh/]
-
-## 12. Cara Menjalankan
+## 11. Cara Menjalankan
 
 ### Menjalankan secara lokal
 
@@ -264,7 +269,7 @@ Akses data harus disesuaikan dengan autentikasi, hak akses, dan kebijakan Row Le
 
 Buka URL GitHub Pages yang tercantum pada bagian Web Demo. GitHub Pages digunakan untuk menyajikan frontend statis, sedangkan penyimpanan dan pemrosesan data dilakukan melalui Supabase.
 
-## 13. Batasan Implementasi
+## 12. Batasan Implementasi
 
 Beberapa aspek perlu diverifikasi dalam pengujian aplikasi, antara lain:
 
